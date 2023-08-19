@@ -1,5 +1,5 @@
 <div>
-<img src='https://github.com/Bharathi-raja-pbr/Bharathi-raja-pbr/tree/main/.github/IMG_20230211_180800.jpg' width=200 height=100>
+<img src=url(https://github.com/Bharathi-raja-pbr/Bharathi-raja-pbr/tree/main/.github/IMG_20230211_180800.jpg) width=200 height=100>
 </div>
 '
 <br clear="both">
