@@ -1,6 +1,6 @@
-'<br clear="both">
 
-<h3 align="left">Hi ! My name is Bharathi Raja P and I'm a student currently pursuing Computer Science and Engineering, from SSN College Of Engineering.</h3>
+##Bharathi Raja P
+<h4 align="left">Hi ! My name is Bharathi Raja P and I'm a student currently pursuing Computer Science and Engineering, from SSN College Of Engineering.</h4>
 
 ###
 
