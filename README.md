@@ -1,8 +1,8 @@
 
-##Bharathi Raja P
+### Bharathi Raja P
 <h4 align="left">Hi ! My name is Bharathi Raja P and I'm a student currently pursuing Computer Science and Engineering, from SSN College Of Engineering.</h4>
 
-###
+### Stats and Streaks
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bharathi-raja-pbr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -14,7 +14,7 @@
 
 <img align="right" height="00" src=""  />
 
-###
+### Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -40,7 +40,7 @@
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
 </div>
 
-###
+### Social Links
 
 <div align="left">
   <a href="Bharathi2010739@ssn.edu.in" target="_blank">
