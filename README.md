@@ -55,9 +55,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://github.com/Bharathi-raja-pbr/Bharathi-raja-pbr/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
