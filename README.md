@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bharathi-raja-pbr/bharathi-raja-pbr/output/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Bharathi-raja-pbr/Bharathi-raja-pbr/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
