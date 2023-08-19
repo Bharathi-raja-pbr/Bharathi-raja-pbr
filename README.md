@@ -40,8 +40,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
 </div>
-<hr width=80% align=center>
+<hr width=100% align=center>
 
 ### Social Links
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Bharathi-raja-pbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/http://www.linkedin.com/in/bharathi--raja/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/bharathi2010739)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='30'>](http://codechef.com/users/bharathi2104)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Bharathi-raja-pbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' >](https://www.linkedin.com/in/http://www.linkedin.com/in/bharathi--raja/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/bharathi2010739)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='30'>](http://codechef.com/users/bharathi2104)  
 
