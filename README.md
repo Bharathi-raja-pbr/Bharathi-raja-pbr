@@ -1,4 +1,4 @@
-<img sr='https://github.com/Bharathi-raja-pbr/Bharathi-raja-pbr/blob/main/Black%20Typographic%20Retro%20Moon%20and%20Astronaut%20Twitter%20Header.png'>
+<img src='https://github.com/Bharathi-raja-pbr/Bharathi-raja-pbr/blob/main/Black%20Typographic%20Retro%20Moon%20and%20Astronaut%20Twitter%20Header.png'>
 
 ### Bharathi Raja P
 <h4 align="left">Hi ! My name is Bharathi Raja P and I'm a student currently pursuing Computer Science and Engineering, from SSN College Of Engineering.</h4>
