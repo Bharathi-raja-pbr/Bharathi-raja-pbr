@@ -1,5 +1,5 @@
-<div>
-<img src='https://github.com/Bharathi-raja-pbr/Bharathi-raja-pbr/blob/main/IMG_20230211_180800.jpg' width=200% height=20%>
+<div style="overflow: hidden;">
+  <img src="https://github.com/Bharathi-raja-pbr/Bharathi-raja-pbr/blob/main/IMG_20230211_180800.jpg" style="width: 100%; height: auto; margin-top: -50px;">
 </div>
 '
 <br clear="both">
