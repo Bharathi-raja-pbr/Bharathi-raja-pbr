@@ -2,7 +2,7 @@
 
 ### Bharathi Raja P
 <hr width=100% align=center color:whitesmoke>
-<h4 align="left">Hi👋 ! My name is Bharathi Raja P and Former student currently pursuing Computer Science and Engineering, from SSN College Of Engineering.</h4>
+<h4 align="left">Hi👋 ! My name is Bharathi.</h4>
 <hr width=100% align=center>
 
 ###  Stats and Streaks📊
